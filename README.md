@@ -1,6 +1,6 @@
 # Tarique Fashion Ecommerce Store 👕👜
 
-A stylish and fully responsive fashion eCommerce website built with **React**, **Tailwind CSS**, and **Vite**, inspired by [Nike India](https://www.nike.com/in/). Built for showcasing modern apparel and techwear with a sleek UI.
+A stylish and fully responsive fashion eCommerce website built with **React**, **Tailwind CSS**, and **Vite**, Built for showcasing modern apparel and techwear with a sleek UI.
 
 ---
 
@@ -33,4 +33,16 @@ A stylish and fully responsive fashion eCommerce website built with **React**, *
 ---
 
 ## 📁 Folder Structure
+client/
+├── public/
+│ └── assets/ # Logo and image assets
+├── src/
+│ ├── components/ # All reusable React components
+│ ├── pages/ # Pages for different categories
+│ ├── data/ # Product dataset
+│ └── App.js # Main application component
+├── .gitignore
+├── README.md
+└── package.json
+
 
